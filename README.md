@@ -1,4 +1,5 @@
 # Tailwind Traders Website
+Now with branch protection in place!
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
